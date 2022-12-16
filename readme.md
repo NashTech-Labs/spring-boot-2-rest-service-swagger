@@ -104,6 +104,12 @@ public interface ApiDocumentationConfig {
 
 }
 ---
+```sh
+http://localhost:8089/swagger-ui.html
 ```
-Also see : https://i.postimg.cc/qBXGqG8p/Screenshot-from-2022-12-16-20-44-55.png
+* As you can see Swagger provide a simple way to document US API's.
+
+[![Screenshot-from-2022-08-25-21-20-19.png](https://i.postimg.cc/qBXGqG8p/Screenshot-from-2022-12-16-20-44-55.png)
+```
+
 ````
